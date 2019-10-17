@@ -31,9 +31,11 @@ Amy Tai, Michael Wei, Michael J Freedman, Ittai Abraham, Dahlia Malkhi<br>
 ATC '16: USENIX Annual Technical Conference, <b><i><font color="red">Best Paper Award</font></i></b><br>
 [<a href="https://www.usenix.org/system/files/conference/atc16/atc16_paper-tai.pdf">Paper</a>]
 
-<h2>Committees:</h2>
+<h2>Service:</h2>
 <ul>
-<li>ACM Middleware '19</li>
+<li>USENIX ATC '20 PC</li>
+<li>SOSP '19 Diversity Workshop Talk and Panelist</li>
+<li>ACM Middleware '19 PC</li>
 <li>USENIX ATC '19 ERC</li>
 <li>ACM SoCC '18 ERC</li>
 </ul>
