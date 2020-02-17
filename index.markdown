@@ -10,6 +10,18 @@ For an up-to-date list of my publications, please refer to my Google Scholar <a 
 
 <h2>Publications:</h2>
 
+<b>Don't shoot down TLB shootdowns!</b>
+<br>
+Nadav Amit, Amy Tai, Michael Wei<br>
+Eurosys '20: European Conference on Computer Systems<br>
+<i>To Appear</i>
+
+<b>Who's Afraid of Uncorrectable Bit Errors? Online Recovery of Flash Errors with Distributed Redundancy</b>
+<br>
+Amy Tai, Andrew Kryczka, Shobhit O Kanaujia, Kyle Jamieson, Michael J Freedman, Asaf Cidon<br>
+NVMW '20: Non-Volatile Memories Workshop<br>
+<!--[<a href="https://www.usenix.org/system/files/atc19-tai.pdf">Presentation</a>] -->
+
 <b>Who's Afraid of Uncorrectable Bit Errors? Online Recovery of Flash Errors with Distributed Redundancy</b>
 <br>
 Amy Tai, Andrew Kryczka, Shobhit O Kanaujia, Kyle Jamieson, Michael J Freedman, Asaf Cidon<br>
@@ -33,6 +45,9 @@ ATC '16: USENIX Annual Technical Conference, <b><i><font color="red">Best Paper 
 
 <h2>Service:</h2>
 <ul>
+<li>ACM SoCC '20 PC</li>
+<li>ACM Middleware '20 PC</li>
+<li>USENIX HotStorage '20 PC</li>
 <li>USENIX ATC '20 PC</li>
 <li>SOSP '19 Diversity Workshop Talk and Panelist</li>
 <li>ACM Middleware '19 PC</li>
@@ -41,3 +56,4 @@ ATC '16: USENIX Annual Technical Conference, <b><i><font color="red">Best Paper 
 </ul>
 
 Previously, I received my PhD from Princeton University, where I worked with Mike Freedman.
+Before that, I received bachelor's degrees in computer science and math from Harvard College.
