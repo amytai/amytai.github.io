@@ -4,7 +4,7 @@
 
 layout: home
 ---
-I am a post-doctoral researcher at <a href="https://research.vmware.com">VMware Research</a>. I am a systems generalist interested in hardware-software codesign in distributed systems, storage systems, and emerging storage technologies.
+I am a researcher at <a href="https://research.vmware.com">VMware Research</a>. I am a systems generalist interested in hardware-software codesign in distributed systems, storage systems, and emerging storage technologies.
 
 For an up-to-date list of my publications, please refer to my Google Scholar <a href="https://scholar.google.com/citations?user=lOKxtwoAAAAJ">profile</a>.
 
@@ -13,14 +13,13 @@ For an up-to-date list of my publications, please refer to my Google Scholar <a 
 <b>Don't shoot down TLB shootdowns!</b>
 <br>
 Nadav Amit, Amy Tai, Michael Wei<br>
-Eurosys '20: European Conference on Computer Systems<br>
-<i>To Appear</i>
+Eurosys '20: European Conference on Computer Systems, <b><i><font color="red">Best Paper Award</font></i></b><br>
+[<a href="https://dl.acm.org/doi/abs/10.1145/3342195.3387518">Paper</a>]
 
 <b>Who's Afraid of Uncorrectable Bit Errors? Online Recovery of Flash Errors with Distributed Redundancy</b>
 <br>
 Amy Tai, Andrew Kryczka, Shobhit O Kanaujia, Kyle Jamieson, Michael J Freedman, Asaf Cidon<br>
 NVMW '20: Non-Volatile Memories Workshop<br>
-<!--[<a href="https://www.usenix.org/system/files/atc19-tai.pdf">Presentation</a>] -->
 
 <b>Who's Afraid of Uncorrectable Bit Errors? Online Recovery of Flash Errors with Distributed Redundancy</b>
 <br>
@@ -45,6 +44,7 @@ ATC '16: USENIX Annual Technical Conference, <b><i><font color="red">Best Paper 
 
 <h2>Service:</h2>
 <ul>
+<li>USENIX FAST '21 PC</li>
 <li>ACM SoCC '20 PC</li>
 <li>ACM Middleware '20 PC</li>
 <li>USENIX HotStorage '20 PC</li>
