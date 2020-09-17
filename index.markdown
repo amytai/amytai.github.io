@@ -10,6 +10,12 @@ For an up-to-date list of my publications, please refer to my Google Scholar <a 
 
 <h2>Publications:</h2>
 
+<b>SplinterDB: Closing the Bandwidth Gap for NVMe Key-Value Stores</b>
+<br>
+Alexander Conway, Abhishek Gupta, Vijay Chidambaram, Martin Farach-Colton, Richard Spillane, Amy Tai, Rob Johnson<br>
+ATC '20: USENIX Annual Technical Conference<br>
+[<a href="https://dl.acm.org/doi/abs/10.1145/3342195.3387518">Paper</a>]
+
 <b>Don't shoot down TLB shootdowns!</b>
 <br>
 Nadav Amit, Amy Tai, Michael Wei<br>
@@ -19,12 +25,8 @@ Eurosys '20: European Conference on Computer Systems, <b><i><font color="red">Be
 <b>Who's Afraid of Uncorrectable Bit Errors? Online Recovery of Flash Errors with Distributed Redundancy</b>
 <br>
 Amy Tai, Andrew Kryczka, Shobhit O Kanaujia, Kyle Jamieson, Michael J Freedman, Asaf Cidon<br>
-NVMW '20: Non-Volatile Memories Workshop<br>
-
-<b>Who's Afraid of Uncorrectable Bit Errors? Online Recovery of Flash Errors with Distributed Redundancy</b>
-<br>
-Amy Tai, Andrew Kryczka, Shobhit O Kanaujia, Kyle Jamieson, Michael J Freedman, Asaf Cidon<br>
 ATC '19: USENIX Annual Technical Conference<br> 
+Memorable Paper Presentation at NVMW '20: Non-Volatile Memories Workship<br>
 [<a href="https://www.usenix.org/system/files/atc19-tai.pdf">Paper</a>]
 
 <b>vCorfu: A Cloud-Scale Object Store on a Shared Log</b><br>
@@ -44,6 +46,7 @@ ATC '16: USENIX Annual Technical Conference, <b><i><font color="red">Best Paper 
 
 <h2>Service:</h2>
 <ul>
+<li>USENIX ATC '21 PC</li>
 <li>USENIX FAST '21 PC</li>
 <li>ACM SoCC '20 PC</li>
 <li>ACM Middleware '20 PC</li>
