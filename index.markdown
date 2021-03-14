@@ -46,8 +46,9 @@ ATC '16: USENIX Annual Technical Conference, <b><i><font color="red">Best Paper 
 
 <h2>Service:</h2>
 <ul>
+<li>ACM SYSTOR '21 PC</li>
 <li>USENIX ATC '21 PC</li>
-<li>USENIX FAST '21 PC</li>
+<li>USENIX FAST '21 PC, Works-in-Progress Co-Chair</li>
 <li>ACM SoCC '20 PC</li>
 <li>ACM Middleware '20 PC</li>
 <li>USENIX HotStorage '20 PC</li>
@@ -58,5 +59,5 @@ ATC '16: USENIX Annual Technical Conference, <b><i><font color="red">Best Paper 
 <li>ACM SoCC '18 ERC</li>
 </ul>
 
-Previously, I received my PhD from Princeton University, where I worked with Mike Freedman.
-Before that, I received bachelor's degrees in computer science and math from Harvard College.
+Previously, I received my PhD from Princeton University and 
+bachelor's degrees in computer science and math from Harvard College.
