@@ -4,17 +4,41 @@
 
 layout: home
 ---
-I am a researcher at <a href="https://research.vmware.com">VMware Research</a>. I am a systems generalist interested in hardware-software codesign in distributed systems, storage systems, and emerging storage technologies.
+I am a researcher at <a href="https://research.vmware.com">VMware Research</a>. I am a systems generalist interested in hardware-software codesign in distributed systems, storage systems, and emerging hardware technologies.
 
 For an up-to-date list of my publications, please refer to my Google Scholar <a href="https://scholar.google.com/citations?user=lOKxtwoAAAAJ">profile</a>.
 
 <h2>Publications:</h2>
 
+<b>Optimizing Storage Performance with Calibrated Interrupts</b>
+<br>
+Amy Tai, Igor Smolyar, Michael Wei, Dan Tsafrir<br>
+OSDI '21: USENIX Symposium on Operating Systems Design and Implementation<br>
+[Paper][<a href="https://github.com/amytai/cinterrupts-osdi">Artifact</a>]
+
+<b>NrOS: Effective Replication and Sharing in an Operating System</b>
+<br>
+Ankit Bhardwaj, Chinmay Kulkarni, Reto Achermann, Irina Calciu, Sanidhya Kashyap, Ryan Stutsman, Amy Tai, Gerd Zellweger<br>
+OSDI '21: USENIX Symposium on Operating Systems Design and Implementation<br>
+[Paper][Artifact]
+
+<b>BPF For Storage: An Exokernel-Inspired Approach</b>
+<br>
+Yuhong Zhong, Hongyi Wang, Yu Jian Wu, Asaf Cidon, Ryan Stutsman, Amy Tai, Junfeng Yang<br>
+HotOS '21: Workshop on Hot Topics in Operating Systems<br>
+[<a href="https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s07-zhong.pdf">Paper</a>]
+
+<b>Systems Research is Running Out of Time</b>
+<br>
+Ali Najafi, Amy Tai, Michael Wei<br>
+HotOS '21: Workshop on Hot Topics in Operating Systems<br>
+[<a href="https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s04-najafi.pdf">Paper</a>]
+
 <b>SplinterDB: Closing the Bandwidth Gap for NVMe Key-Value Stores</b>
 <br>
 Alexander Conway, Abhishek Gupta, Vijay Chidambaram, Martin Farach-Colton, Richard Spillane, Amy Tai, Rob Johnson<br>
 ATC '20: USENIX Annual Technical Conference<br>
-[<a href="https://dl.acm.org/doi/abs/10.1145/3342195.3387518">Paper</a>]
+[<a href="https://www.usenix.org/system/files/atc20-conway.pdf">Paper</a>]
 
 <b>Don't shoot down TLB shootdowns!</b>
 <br>
@@ -46,6 +70,8 @@ ATC '16: USENIX Annual Technical Conference, <b><i><font color="red">Best Paper 
 
 <h2>Service:</h2>
 <ul>
+<li>USENIX FAST '22 PC</li>
+<li>ACM SoCC '21 PC</li>
 <li>ACM SYSTOR '21 PC</li>
 <li>USENIX ATC '21 PC</li>
 <li>USENIX FAST '21 PC, Works-in-Progress Co-Chair</li>
