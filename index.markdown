@@ -14,13 +14,13 @@ For an up-to-date list of my publications, please refer to my Google Scholar <a 
 <br>
 Amy Tai, Igor Smolyar, Michael Wei, Dan Tsafrir<br>
 OSDI '21: USENIX Symposium on Operating Systems Design and Implementation<br>
-[Paper][<a href="https://github.com/amytai/cinterrupts-osdi">Artifact</a>]
+[<a href="https://www.usenix.org/system/files/osdi21-tai.pdf">Paper</a>][<a href="https://github.com/amytai/cinterrupts-osdi">Artifact</a>]
 
 <b>NrOS: Effective Replication and Sharing in an Operating System</b>
 <br>
 Ankit Bhardwaj, Chinmay Kulkarni, Reto Achermann, Irina Calciu, Sanidhya Kashyap, Ryan Stutsman, Amy Tai, Gerd Zellweger<br>
 OSDI '21: USENIX Symposium on Operating Systems Design and Implementation<br>
-[Paper][Artifact]
+[<a href="https://www.usenix.org/system/files/osdi21-bhardwaj.pdf">Paper</a>][<a href="https://github.com/vmware-labs/node-replicated-kernel">Artifact</a>]
 
 <b>BPF For Storage: An Exokernel-Inspired Approach</b>
 <br>
@@ -33,6 +33,13 @@ HotOS '21: Workshop on Hot Topics in Operating Systems<br>
 Ali Najafi, Amy Tai, Michael Wei<br>
 HotOS '21: Workshop on Hot Topics in Operating Systems<br>
 [<a href="https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s04-najafi.pdf">Paper</a>]
+
+<b>RainBlock: Faster Transaction Processing in Public Blockchains</b>
+<br>
+Soujanya Ponnapalli, Aashaka Shah, Souvik Banerjee, Dahlia Malkhi, Amy Tai, Vijay Chidambaram, Michael Wei
+<br>
+ATC '21: USENIX Annual Technical Conference<br>
+[<a href="https://www.usenix.org/system/files/atc21-ponnapalli.pdf">Paper</a>]
 
 <b>SplinterDB: Closing the Bandwidth Gap for NVMe Key-Value Stores</b>
 <br>
@@ -70,6 +77,8 @@ ATC '16: USENIX Annual Technical Conference, <b><i><font color="red">Best Paper 
 
 <h2>Service:</h2>
 <ul>
+<li>ACM ASPLOS '22 ERC</li>
+<li>SOSP '21 Diversity Workshop Co-Chair</li>
 <li>USENIX FAST '22 PC</li>
 <li>ACM SoCC '21 PC</li>
 <li>ACM SYSTOR '21 PC</li>
