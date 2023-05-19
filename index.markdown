@@ -4,7 +4,7 @@
 
 layout: home
 ---
-I am a systems research engineer at Google. I am a systems generalist interested in hardware-software codesign in distributed systems, storage systems, and emerging hardware technologies.
+I am a senior software engineer at Google. I am a systems generalist interested in hardware-software codesign in distributed systems, storage systems, and emerging hardware technologies.
 
 Previously, I was a researcher at <a href="https://research.vmware.com">VMware Research</a>.
 
@@ -79,6 +79,9 @@ ATC '16: USENIX Annual Technical Conference, <b><i><font color="red">Best Paper 
 
 <h2>Service:</h2>
 <ul>
+<li>ACM ASPLOS '24 PC</li>
+<li>USENIX FAST '24 PC</li>
+<li>HotStorage '23 PC</li>
 <li>USENIX NSDI '23 PC</li>
 <li>USENIX OSDI '22 PC</li>
 <li>USENIX HotStorage '22 PC</li>
