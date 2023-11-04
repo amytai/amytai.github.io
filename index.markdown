@@ -12,6 +12,21 @@ For an up-to-date list of my publications, please refer to my Google Scholar <a 
 
 <h2>Publications:</h2>
 
+<b>A Case Against CXL Memory Pooling</b>
+<br>
+Philip Levis, Kun Lin, Amy Tai<br>
+HotNets '23<br>
+<i>To Appear</i>
+
+<b>XRP:In-Kernel Storage Functions with eBPF</b>
+<br>
+Yuhong Zhong, Haoyu Li, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan
+Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, Asaf Cidon<br>
+OSDI '22, <b><i><font color="red">Best Paper Award</font></i></b><br>
+[<a
+href="https://www.usenix.org/system/files/osdi22-zhong_1.pdf">Paper</a>][<a
+href="https://github.com/xrp-project/XRP">Artifact</a>]
+
 <b>Optimizing Storage Performance with Calibrated Interrupts</b>
 <br>
 Amy Tai, Igor Smolyar, Michael Wei, Dan Tsafrir<br>
@@ -79,9 +94,10 @@ ATC '16: USENIX Annual Technical Conference, <b><i><font color="red">Best Paper 
 
 <h2>Service:</h2>
 <ul>
+<li>USENIX OSDI '24 PC</li>
+<li>USENIX HotStorage '24 PC Chair</li>
 <li>ACM ASPLOS '24 PC</li>
-<li>USENIX FAST '24 PC</li>
-<li>HotStorage '23 PC</li>
+<li>USENIX HotStorage '23 PC</li>
 <li>USENIX NSDI '23 PC</li>
 <li>USENIX OSDI '22 PC</li>
 <li>USENIX HotStorage '22 PC</li>
